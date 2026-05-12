@@ -22,7 +22,7 @@ VisionPort, klasik Python/Tkinter kütüphanesinin sınırlarını zorlayarak mo
 
 ## 🚀 Kurulum ve Çalıştırma
 
-Uygulamayı yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+Uygulamayı cihazınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Gerekli Kütüphanelerin Kurulumu ve Başlatma:**
    Uygulamanın görselleri düzgün işleyebilmesi için önce terminale bağımlılık kurma komutunu yazın, ardından uygulamayı başlatabilirsiniz:
